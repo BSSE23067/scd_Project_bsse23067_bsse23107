@@ -1,0 +1,7 @@
+{
+  "name": "ReliefTrack: Smart Ration Distribution System",
+  "description": "A comprehensive portal for aid seekers to check balances and staff to manage inventory, registrations, and distribution with AI-powered assistance.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
